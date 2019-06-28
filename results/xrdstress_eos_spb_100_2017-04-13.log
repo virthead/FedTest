@@ -1,0 +1,34 @@
+Host: ui2.grid.kiae.ru. Date: 2017-04-13
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/100.ui2.grid.kiae.ru/ using block size for operations of: 1024 KB
+
+error=error while opening read file: root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/100.ui2.grid.kiae.ru/9ea99f64-201e-11e7-b0f3-0016353823ec.
+
+Host: alice06.spbu.ru. Date: 2017-04-13
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/100.alice06.spbu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=6.10352 MB/s stddev=0.00264195 open/s=0.0491117 
+info="all thread write info" mean=3.71882 MB/s stddev= 0.00354788 open/s=0.0491117
+
+Host: eostest.pnpi.nw.ru. Date: 2017-04-13
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/100.eostest.pnpi.nw.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=14.1448 MB/s stddev=0.379683 open/s=0.156357 
+info="all thread write info" mean=17.1266 MB/s stddev= 3.24745 open/s=0.156357
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-04-13
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/100.gridmsu1.sinp.msu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=5.27684 MB/s stddev=0.000659236 open/s=0.041103 
+info="all thread write info" mean=2.94375 MB/s stddev= 3.06769e-06 open/s=0.041103
+
+Host: vm173.jinr.ru. Date: 2017-04-13
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/100.vm173.jinr.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=1.81498 MB/s stddev=0.00466041 open/s=0.0238611 
+info="all thread write info" mean=2.95723 MB/s stddev= 0.0435998 open/s=0.0238611
+
+Host: uieos.itep.ru. Date: 2017-04-13
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/100.vobox2.itep.ru/ using block size for operations of: 1024 KB
+
+error=error while opening read file: root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/100.vobox2.itep.ru/7c6ddff8-2052-11e7-bf39-0015f2e0211b.
+

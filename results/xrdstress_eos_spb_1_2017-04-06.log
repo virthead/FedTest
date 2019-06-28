@@ -1,0 +1,32 @@
+Host: ui2.grid.kiae.ru. Date: 2017-04-06
+Host: ui2.grid.kiae.ru. Date: 2017-04-06
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.ui2.grid.kiae.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=3.09682 MB/s stddev=0.283065 open/s=0.0394675 
+info="all thread write info" mean=4.79669 MB/s stddev= 0.407766 open/s=0.0394675
+
+Host: alice06.spbu.ru. Date: 2017-04-06
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.alice06.spbu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=3.15321 MB/s stddev=0.00965577 open/s=0.0336012 
+info="all thread write info" mean=3.56703 MB/s stddev= 0.030705 open/s=0.0336012
+
+Host: eostest.pnpi.nw.ru. Date: 2017-04-06
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.eostest.pnpi.nw.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=7.31542 MB/s stddev=0.000985833 open/s=0.102122 
+info="all thread write info" mean=13.109 MB/s stddev= 0.111636 open/s=0.102122
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-04-06
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.gridmsu1.sinp.msu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=5.4098 MB/s stddev=0.449329 open/s=0.0536408 
+info="all thread write info" mean=5.31836 MB/s stddev= 0.00185348 open/s=0.0536408
+
+Host: vm173.jinr.ru. Date: 2017-04-06
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.vm173.jinr.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=1.93084 MB/s stddev=0.000521775 open/s=0.0326424 
+info="all thread write info" mean=4.59764 MB/s stddev= 0.289958 open/s=0.0326424
+
+Host: uieos.itep.ru. Date: 2017-04-06

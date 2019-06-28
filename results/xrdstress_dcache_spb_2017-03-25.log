@@ -1,0 +1,36 @@
+Host: ui2.grid.kiae.ru. Date: 2017-03-25
+Directory path = root://alice01.spbu.ru://dcache/spbcloud/test/zar/rep0//ui2.grid.kiae.ru/ using block size for operations of: 10240 KB
+
+info="all thread read info" mean=2.60728 MB/s stddev=0.102842 open/s=0.381175 
+info="all thread write info" mean=5.01622 MB/s stddev= 0.126666 open/s=0.381175
+
+Host: alice06.spbu.ru. Date: 2017-03-25
+Directory path = root://alice01.spbu.ru://dcache/spbcloud/test/zar/rep0//alice06/ using block size for operations of: 10240 KB
+
+info="all thread read info" mean=3.67142 MB/s stddev=0.149798 open/s=0.329228 
+info="all thread write info" mean=2.91315 MB/s stddev= 0.287643 open/s=0.329228
+
+Host: eostest.pnpi.nw.ru. Date: 2017-03-25
+Directory path = root://alice01.spbu.ru://dcache/spbcloud/test/zar/rep0//eostest.pnpi.nw.ru/ using block size for operations of: 10240 KB
+
+info="all thread read info" mean=4.23433 MB/s stddev=0.0157145 open/s=0.427045 
+info="all thread write info" mean=4.30658 MB/s stddev= 0.379298 open/s=0.427045
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-03-25
+Directory path = root://alice01.spbu.ru://dcache/spbcloud/test/zar/rep0//gridmsu1.sinp.msu.ru/ using block size for operations of: 10240 KB
+
+info="all thread read info" mean=8.94858 MB/s stddev=0.794732 open/s=0.805346 
+info="all thread write info" mean=7.15834 MB/s stddev= 0.613452 open/s=0.805346
+
+Host: vm173.jinr.ru. Date: 2017-03-25
+Directory path = root://alice01.spbu.ru://dcache/spbcloud/test/zar/rep0//vm173.jinr.ru/ using block size for operations of: 10240 KB
+
+info="all thread read info" mean=3.08721 MB/s stddev=0.143023 open/s=0.392147 
+info="all thread write info" mean=4.75572 MB/s stddev= 0.140028 open/s=0.392147
+
+Host: uieos.itep.ru. Date: 2017-03-25
+Directory path = root://alice01.spbu.ru://dcache/spbcloud/test/zar/rep0//vobox2.itep.ru/ using block size for operations of: 10240 KB
+
+info="all thread read info" mean=1.65865 MB/s stddev=0.46656 open/s=0.102373 
+info="all thread write info" mean=0.388804 MB/s stddev= 0.0319704 open/s=0.102373
+

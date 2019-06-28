@@ -1,0 +1,18 @@
+Host: eostest.pnpi.nw.ru. Date: 2017-05-24
+Directory path = root://muon.grid.kiae.ru//dcache/fedcloud/zar/rep2/10.eostest.pnpi.nw.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=11.9299 MB/s stddev=0.0833854 open/s=0.0993994 
+info="all thread write info" mean=7.94994 MB/s stddev= 0.0903897 open/s=0.0993994
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-05-24
+Directory path = root://muon.grid.kiae.ru//dcache/fedcloud/zar/rep2/10.gridmsu1.sinp.msu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=5.57433 MB/s stddev=0.0334787 open/s=0.0558578 
+info="all thread write info" mean=5.59723 MB/s stddev= 0.00898219 open/s=0.0558578
+
+Host: uieos.itep.ru. Date: 2017-05-24
+Directory path = root://muon.grid.kiae.ru//dcache/fedcloud/zar/rep2/10.vobox2.itep.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=25.7162 MB/s stddev=1.97675 open/s=0.236698 
+info="all thread write info" mean=21.6234 MB/s stddev= 1.50778 open/s=0.236698
+

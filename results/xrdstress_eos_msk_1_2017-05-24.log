@@ -1,0 +1,108 @@
+Host: ui2.grid.kiae.ru. Date: 2017-05-24
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: alice06.spbu.ru. Date: 2017-05-24
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: eostest.pnpi.nw.ru. Date: 2017-05-24
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-05-24
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: uieos.itep.ru. Date: 2017-05-24
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: ui2.grid.kiae.ru. Date: 2017-05-24
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/1.ui2.grid.kiae.ru/ using block size for operations of: 1024 KB
+
+error=error while opening write file.
+
+Host: alice06.spbu.ru. Date: 2017-05-24
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/1.alice06.spbu.ru/ using block size for operations of: 1024 KB
+
+error=error while opening write file.
+
+Host: eostest.pnpi.nw.ru. Date: 2017-05-24
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/1.eostest.pnpi.nw.ru/ using block size for operations of: 1024 KB
+
+error=error while opening write file.
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-05-24
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/1.gridmsu1.sinp.msu.ru/ using block size for operations of: 1024 KB
+
+error=error while opening write file.
+
+Host: uieos.itep.ru. Date: 2017-05-24
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/1.vobox2.itep.ru/ using block size for operations of: 1024 KB
+
+^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B                                                                                                                    o info="all thread read info" mean=34.0188 MB/s stddev=0.526615 open/s=0.23142 
+info="all thread write info" mean=12.2653 MB/s stddev= 0.322144 open/s=0.23142
+
+Host: ui2.grid.kiae.ru. Date: 2017-05-24
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/1.ui2.grid.kiae.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=5.40816 MB/s stddev=0.0280874 open/s=0.0551073 
+info="all thread write info" mean=5.6133 MB/s stddev= 0.0137636 open/s=0.0551073
+
+Host: alice06.spbu.ru. Date: 2017-05-24
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/1.alice06.spbu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=0.775924 MB/s stddev=0.0508927 open/s=0.00777734 
+info="all thread write info" mean=0.779544 MB/s stddev= 0.00306555 open/s=0.00777734
+

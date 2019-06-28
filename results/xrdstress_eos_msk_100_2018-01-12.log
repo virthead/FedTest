@@ -1,0 +1,7 @@
+Host: ui2.grid.kiae.ru. Date: 2018-01-12
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep2/100.ui2.grid.kiae.ru/ using block size for operations of: 102400 KB
+
+info="all thread read info" mean=5.691 MB/s stddev=0.0488527 open/s=0.0548747 
+info="all thread write info" mean=5.28394 MB/s stddev= 0.100585 open/s=0.0548747
+
+Host: alice06.spbu.ru. Date: 2018-01-12

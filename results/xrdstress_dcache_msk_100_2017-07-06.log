@@ -1,0 +1,75 @@
+Host: ui2.grid.kiae.ru. Date: 2017-07-06
+170706 14:30:24 28627 secgsi_InitProxy: cannot access private key file: /home/staff/zar/.globus/userkey.pem
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: alice06.spbu.ru. Date: 2017-07-06
+170706 14:27:50 18254 secgsi_InitProxy: cannot access private key file: /home/zar/.globus/userkey.pem
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: eostest.pnpi.nw.ru. Date: 2017-07-06
+170706 14:30:43 14236 secgsi_InitProxy: cannot access private key file: /home/zar/.globus/userkey.pem
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-07-06
+170706 14:30:44 5048 cryptossl_X509CreateProxy: EEC certificate has expired
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: uieos.itep.ru. Date: 2017-07-06
+170706 14:30:46 29979 secgsi_InitProxy: cannot access private key file: /home/users/zarochentsev/.globus/userkey.pem
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+

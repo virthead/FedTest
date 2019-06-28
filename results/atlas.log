@@ -1,0 +1,27 @@
+Host: uieos.itep.ru. Date: 2017-03-14 17:46:30.951268
+/bin/bash: line 0: cd: cd ~/fed-storage-tests/scripts: No such file or directory
+/bin/bash: ../atlastesfull_0.sh: No such file or directory
+
+Host: uieos.itep.ru. Date: 2017-03-14 17:56:36.393544
+Host: uieos.itep.ru. Date: 2017-03-14 17:58:23.236622
+Host: uieos.itep.ru. Date: 2017-03-14 18:02:56.326640
+Host: uieos.itep.ru. Date: 2017-03-14 18:03:56.616915
+Host: uieos.itep.ru. Date: 2017-03-14 18:05:35.925078
+sed: -e expression #1, char 44: unterminated `s' command
+../atlastesfull_0.sh: line 4: /home/zar/atlas_dcache_filelist.out: No such file or directory
+
+Host: uieos.itep.ru. Date: 2017-03-14 18:16:29.077057
+/bin/bash: ../atlastesfull_0.sh: No such file or directory
+
+Host: uieos.itep.ru. Date: 2017-03-14 18:23:45.414233
+/bin/bash: atlastesfull_0.sh: command not found
+
+Host: uieos.itep.ru. Date: 2017-03-14 18:24:08.533035
+
+
+Host: uieos.itep.ru. Date: 2017-03-14 18:25:09.664356
+
+
+Host: uieos.itep.ru. Date: 2017-03-14 18:27:47.369958
+Host: uieos.itep.ru. Date: 2017-03-14 18:41:24.203703
+Host: uieos.itep.ru. Date: 2017-03-14 18:41:46.053689

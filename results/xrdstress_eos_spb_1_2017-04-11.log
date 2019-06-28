@@ -1,0 +1,36 @@
+Host: ui2.grid.kiae.ru. Date: 2017-04-11
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.ui2.grid.kiae.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=4.63661 MB/s stddev=0.0867204 open/s=0.0492323 
+info="all thread write info" mean=5.20984 MB/s stddev= 0.0990476 open/s=0.0492323
+
+Host: alice06.spbu.ru. Date: 2017-04-11
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.alice06.spbu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=7.88025 MB/s stddev=0.233232 open/s=0.0475472 
+info="all thread write info" mean=1.62919 MB/s stddev= 0.0154604 open/s=0.0475472
+
+Host: eostest.pnpi.nw.ru. Date: 2017-04-11
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.eostest.pnpi.nw.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=4.66947 MB/s stddev=0.161706 open/s=0.102317 
+info="all thread write info" mean=15.7939 MB/s stddev= 6.98132 open/s=0.102317
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-04-11
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.gridmsu1.sinp.msu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=5.4553 MB/s stddev=0.0746119 open/s=0.0533901 
+info="all thread write info" mean=5.22272 MB/s stddev= 0.0906881 open/s=0.0533901
+
+Host: vm173.jinr.ru. Date: 2017-04-11
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.vm173.jinr.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=1.78043 MB/s stddev=0.0690513 open/s=0.0326768 
+info="all thread write info" mean=4.75494 MB/s stddev= 0.248341 open/s=0.0326768
+
+Host: uieos.itep.ru. Date: 2017-04-11
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.vobox2.itep.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=7.79969 MB/s stddev=0.52104 open/s=0.0426512 
+info="all thread write info" mean=0.730541 MB/s stddev= 0.00815661 open/s=0.0426512
+

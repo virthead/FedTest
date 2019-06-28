@@ -1,0 +1,30 @@
+Host: ui2.grid.kiae.ru. Date: 2017-05-28
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/100.ui2.grid.kiae.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=5.7346 MB/s stddev=0.494032 open/s=0.0567176 
+info="all thread write info" mean=5.60892 MB/s stddev= 0.00149562 open/s=0.0567176
+
+Host: alice06.spbu.ru. Date: 2017-05-28
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/100.alice06.spbu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=4.58233 MB/s stddev=0.173551 open/s=0.0359279 
+info="all thread write info" mean=2.60324 MB/s stddev= 0.0296759 open/s=0.0359279
+
+Host: eostest.pnpi.nw.ru. Date: 2017-05-28
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/100.eostest.pnpi.nw.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=7.59395 MB/s stddev=0.317391 open/s=0.096279 
+info="all thread write info" mean=11.6618 MB/s stddev= 0.361036 open/s=0.096279
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-05-28
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/100.gridmsu1.sinp.msu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=5.54095 MB/s stddev=0.00177344 open/s=0.0557293 
+info="all thread write info" mean=5.60492 MB/s stddev= 7.8998e-05 open/s=0.0557293
+
+Host: uieos.itep.ru. Date: 2017-05-28
+Directory path = root://muon.grid.kiae.ru//eos/fedcloud/zar/rep0/100.vobox2.itep.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=17.8839 MB/s stddev=0.242979 open/s=0.260652 
+info="all thread write info" mean=34.2464 MB/s stddev= 0.644719 open/s=0.260652
+

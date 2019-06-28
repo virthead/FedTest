@@ -1,0 +1,26 @@
+Host: ui2.grid.kiae.ru. Date: 2017-04-07
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.ui2.grid.kiae.ru/ using block size for operations of: 1024 KB
+
+/bin/bash: line 1: 32678 Segmentation fault      (core dumped) /usr/sbin/xrdstress -d root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0 -o rdwr -j 2 -f 100 -b $TEST_MBMB -s $TEST_MBMB -n $TEST_MB.$HOSTNAME
+
+Host: alice06.spbu.ru. Date: 2017-04-07
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.alice06.spbu.ru/ using block size for operations of: 1024 KB
+
+/bin/bash: line 1: 10934 Segmentation fault      /usr/sbin/xrdstress -d root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0 -o rdwr -j 2 -f 100 -b $TEST_MBMB -s $TEST_MBMB -n $TEST_MB.$HOSTNAME
+
+Host: eostest.pnpi.nw.ru. Date: 2017-04-07
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.eostest.pnpi.nw.ru/ using block size for operations of: 1024 KB
+
+^[  /bin/bash: line 1: 10782 Segmentation fault      /usr/sbin/xrdstress -d root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0 -o rdwr -j 2 -f 100 -b $TEST_MBMB -s $TEST_MBMB -n $TEST_MB.$HOSTNAME
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-04-07
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.gridmsu1.sinp.msu.ru/ using block size for operations of: 1024 KB
+
+/bin/bash: line 1: 12630 Segmentation fault      (core dumped) /usr/sbin/xrdstress -d root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0 -o rdwr -j 2 -f 100 -b $TEST_MBMB -s $TEST_MBMB -n $TEST_MB.$HOSTNAME
+
+Host: vm173.jinr.ru. Date: 2017-04-07
+Directory path = root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0/1.vm173.jinr.ru/ using block size for operations of: 1024 KB
+
+/bin/bash: line 1: 27948 Segmentation fault      /usr/sbin/xrdstress -d root://alice01.spbu.ru//eos/spbcloud/test/zar/rep0 -o rdwr -j 2 -f 100 -b $TEST_MBMB -s $TEST_MBMB -n $TEST_MB.$HOSTNAME
+
+Host: uieos.itep.ru. Date: 2017-04-07

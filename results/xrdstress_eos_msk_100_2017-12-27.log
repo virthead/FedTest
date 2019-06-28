@@ -1,0 +1,70 @@
+Host: ui2.grid.kiae.ru. Date: 2017-12-27
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: alice06.spbu.ru. Date: 2017-12-27
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: eostest.pnpi.nw.ru. Date: 2017-12-27
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: vm221-124.jinr.ru. Date: 2017-12-27
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: uieos.itep.ru. Date: 2017-12-27
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+

@@ -1,0 +1,105 @@
+Host: ui2.grid.kiae.ru. Date: 2017-07-06
+170706 11:05:24 26918 secgsi_InitProxy: cannot access private key file: /home/staff/zar/.globus/userkey.pem
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: alice06.spbu.ru. Date: 2017-07-06
+170706 11:02:39 9718 secgsi_InitProxy: cannot access private key file: /home/zar/.globus/userkey.pem
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: eostest.pnpi.nw.ru. Date: 2017-07-06
+170706 11:05:32 13106 secgsi_InitProxy: cannot access private key file: /home/zar/.globus/userkey.pem
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-07-06
+170706 11:05:33 3781 cryptossl_X509CreateProxy: EEC certificate has expired
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: uieos.itep.ru. Date: 2017-07-06
+170706 11:05:39 28917 secgsi_InitProxy: cannot access private key file: /home/users/zarochentsev/.globus/userkey.pem
+The path requested does not exists. Xrootd::stat failed.
+Usage:  xrdstress -d <dir path>                               
+		 -o <rd/wr/rdwr>                               
+		 -j <num_jobs>                               
+		 -f <num_files>                               
+		 [-b <size_block: 1KB, 1MB>]                               
+		 [-s <size_file: 1KB, 1MB>]                               
+		 [-c run in concurrent mode]                               
+		 [-n <testName>]                               
+		 [-v verbose]                               
+		 [-p use processes]                               
+		 [-h display help]
+
+Host: ui2.grid.kiae.ru. Date: 2017-07-06
+Directory path = root://muon.grid.kiae.ru//dcache/fedcloud/zar/rep2/10.ui2.grid.kiae.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=5.27868 MB/s stddev=0.00296031 open/s=0.0543788 
+info="all thread write info" mean=5.59708 MB/s stddev= 2.79162e-05 open/s=0.0543788
+
+Host: alice06.spbu.ru. Date: 2017-07-06
+Directory path = root://muon.grid.kiae.ru//dcache/fedcloud/zar/rep2/10.alice06.spbu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=6.35333 MB/s stddev=0.232322 open/s=0.0616463 
+info="all thread write info" mean=5.97593 MB/s stddev= 0.106809 open/s=0.0616463
+
+Host: eostest.pnpi.nw.ru. Date: 2017-07-06
+Directory path = root://muon.grid.kiae.ru//dcache/fedcloud/zar/rep2/10.eostest.pnpi.nw.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=9.74662 MB/s stddev=0.154436 open/s=0.158449 
+info="all thread write info" mean=21.9433 MB/s stddev= 0.33966 open/s=0.158449
+
+Host: gridmsu1.sinp.msu.ru. Date: 2017-07-06
+Directory path = root://muon.grid.kiae.ru//dcache/fedcloud/zar/rep2/10.gridmsu1.sinp.msu.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=5.59561 MB/s stddev=0.000370006 open/s=0.0559105 
+info="all thread write info" mean=5.58648 MB/s stddev= 0.000516971 open/s=0.0559105
+
+Host: uieos.itep.ru. Date: 2017-07-06
+Directory path = root://muon.grid.kiae.ru//dcache/fedcloud/zar/rep2/10.vobox2.itep.ru/ using block size for operations of: 1024 KB
+
+info="all thread read info" mean=39.1016 MB/s stddev=0.0281429 open/s=0.314941 
+info="all thread write info" mean=23.8866 MB/s stddev= 0.00140083 open/s=0.314941
+
